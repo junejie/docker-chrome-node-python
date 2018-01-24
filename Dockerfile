@@ -1,4 +1,4 @@
-FROM junejie/docker-chrome-node:r1
+FROM junejie/docker-chrome-node:r2
 
 RUN apt-get update
 RUN python3 --version
